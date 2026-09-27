@@ -6,7 +6,7 @@ pageClass: "index-page domain-soil"
 hero:
   name: "NDSoI"
   text: "Normalized Difference Soil Index"
-  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Soil</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #241</span></span>"
+  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Soil</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #240</span></span>"
   actions:
     - theme: brand
       text: 🡰 Back to Catalogue Search
@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1016/j.jag.2015.02.010"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+NDSoI+%E2%80%94+"
+      link: "https://github.com/cmayet/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+NDSoI+%E2%80%94+"
 ---
 
 <script setup>

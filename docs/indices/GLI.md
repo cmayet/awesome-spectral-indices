@@ -16,7 +16,7 @@ hero:
       link: "http://dx.doi.org/10.1080/10106040108542184"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+GLI+%E2%80%94+"
+      link: "https://github.com/cmayet/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+GLI+%E2%80%94+"
 ---
 
 <script setup>

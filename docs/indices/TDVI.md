@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1109/IGARSS.2002.1026867"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+TDVI+%E2%80%94+"
+      link: "https://github.com/cmayet/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+TDVI+%E2%80%94+"
 ---
 
 <script setup>
